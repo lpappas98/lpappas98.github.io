@@ -2504,6 +2504,7 @@
 		top: 0;
 		width: 23em;
 		right: 0;
+		border-left:1px solid black;
 	}
 
 		#header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
